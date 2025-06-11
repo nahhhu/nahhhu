@@ -9,7 +9,7 @@ Interesado por la ciencia, la música, la tecnología y las matemáticas.
 
 - **Lenguajes:** Java, JavaScript, HTML, CSS, SQL  
 - **Herramientas:** Git, VSCode, mi cerebro 🧠  
-- **Aprendiendo:** APIs RESTful, React, Spring Boot
+- **Aprendiendo:** React, Spring Boot
 
 ---
 
