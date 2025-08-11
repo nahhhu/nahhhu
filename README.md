@@ -15,7 +15,7 @@ Interesado por la ciencia, la música, la tecnología y las matemáticas.
 
 ## 📚 Actualmente aprendiendo
 
-Desarrollo web, perfeccionando Java y SQL, y próximamente Spring Boot.
+Desarrollo web, perfeccionando Java y SQL, y Spring Boot.
 
 ---
 
