@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy Nahhhu :D
 
 🎓 Estudiante de Licenciatura en Sistemas | Futuro Desarrollador Backend  
-Interesado por la ciencia, la música, la tecnología y las matemáticas.
+Interesado por la música, la tecnología y las matemáticas.
 
 ---
 
