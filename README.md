@@ -16,9 +16,9 @@ Interesado por la música, la tecnología, las matemáticas y aprender.
 
 ## 💡 Proyectos destacados
 
-- [Proyecto final de bootcamp](https://github.com/nahhhu/proyecto-Springboot)
+- [Proyecto final de bootcamp](https://github.com/nahhhu/proyecto-Springboot):
   Desarrollo de una API RESTful profesional para la gestión de inventario de productos electrónicos.
-- [💻 Proyecto de Bootcamp FullStack ITBA](https://github.com/00nic/Muebleria-Hermanos-Jota)  
+- [💻 Proyecto de Bootcamp FullStack ITBA](https://github.com/00nic/Muebleria-Hermanos-Jota):
   Aplicación web para una mueblería utilizando el stack MERN. Trabajando en equipo junto a 3 compañeros, cumpliendo con sprints y aplicando metodologías ágiles.
 - [📌 Proyecto de bootcamp](https://github.com/nahhhu/Preentrega-bootcamp-java):  
   CRUD que aplica los conceptos fundamentales de POO con Java.
