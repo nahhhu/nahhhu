@@ -27,7 +27,7 @@ Interesado por la música, la tecnología, las matemáticas y aprender.
 
 ## 🧩 ¿Dónde practico?
 
-- 🔍 [LeetCode](https://leetcode.com/u/nahhhu/)
+- 🔍 [HackerRank](https://www.hackerrank.com/profile/Nahhhu)
 
 ---
 
