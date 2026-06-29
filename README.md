@@ -1,6 +1,6 @@
 # ¡Hola! Soy Nahhhu :D
 
- Técnico en informática | Estudiante de Licenciatura en Sistemas | Desarrollador Backend  
+ Técnico en informática | Estudiante de Licenciatura en Sistemas | Desarrollador de Software  
 Interesado por la música, la tecnología, las matemáticas y aprender.
 
 🚀 **Estado**: 
@@ -10,9 +10,9 @@ Abierto a nuevas oportunidades laborales como Desarrollador (Backend | Full Stac
 
 ##  Stack de Tecnologías
 
-- **Tecnologías:** Java 21/25 (Spring Boot), JavaScript (React, Node.js / Express), SQL. 
+- **Tecnologías:** Java 21/25 (Spring Boot), JavaScript (React, Node.js / Express), SQL, Unit Testing (JUnit 5 & Mockito). 
 - **Herramientas:** Git, Postman y Bruno, Trello, Figma, mi cerebro   
-- **Aprendiendo activamente:** Spring Security, Unit Testing (JUnit 5 & Mockito)
+- **Aprendiendo activamente:** Spring Security.
 - **Metas de aprendizaje**:  Spring AI, Docker
   
 ---
@@ -23,8 +23,6 @@ Abierto a nuevas oportunidades laborales como Desarrollador (Backend | Full Stac
   Desarrollo de una API RESTful profesional utilizando el ecosistema de Spring Boot y herramientas de testing para la gestión de inventario de productos electrónicos.
 - [Muebleria Hermanos Jota| E-commerce Full-Stack](https://github.com/00nic/Muebleria-Hermanos-Jota):
   Aplicación web para una mueblería utilizando el stack MERN. Trabajando en equipo junto a 3 compañeros, cumpliendo con sprints y aplicando metodologías ágiles.
-- [Sistema de Gestión | Fundamentos de POO](https://github.com/nahhhu/Preentrega-bootcamp-java):  
-  CRUD que aplica los conceptos fundamentales de POO con Java.
 
 ---
 
